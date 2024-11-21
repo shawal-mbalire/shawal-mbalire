@@ -2,7 +2,12 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shawal-mbalire&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&show_icons=true&hide_border=true&layout=compact"/>
+
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi1090x&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi1090x&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!-- git roll -->
 ## Git roll
