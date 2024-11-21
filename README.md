@@ -1,15 +1,16 @@
-### Hi there 👋. I'm Shawal
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=shawal-mbalire)
 <!-- Variables-->
 [linkedin]: https://linkedin.com/in/mbalireshawal
 [twitter]: https://twitter.com/shawalmbalire
 [portfolio]: https://shawalmbalire.com
 
-# 📊 GitHub Stats:
+# Hi there 👋. I'm Shawal
+
+Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=shawal-mbalire) ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=0)
+
+## 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&langs_count=10"/>
 </p>
 
 ## Git roll
@@ -23,26 +24,8 @@
 
 <img href="https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=0" />
 
-
-**Talking about Personal Stuffs:**
-
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Web Development
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary create new stuff for [Archcraft][archcraft]
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [adi1090x@gmail.com][gmail]
-
-<!--
-**shawal-mbalire/shawal-mbalire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on fullstack development
+- 🌱 I’m currently learning machine learning and electronics
+- 👯 I’m looking to collaborate on cool projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: today is a nice day for engineering
