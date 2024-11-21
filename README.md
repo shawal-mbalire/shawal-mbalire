@@ -5,9 +5,9 @@
 
 # Greetings there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=0)
 
+<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">Gitroll profile</a>
 <p>
   
-<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">Gitroll profile</a>
 <img 
   src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" 
   alt="GitRoll Profile Badge" 
