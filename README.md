@@ -19,7 +19,7 @@
   />
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&layout=compact&langs_count=10&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=default&show_icons=true&layout=compact&langs_count=10&hide_border=true"
   />
   <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=light&layout=compact&count_private=true&include_all_commits=true#gh-light-mode-only"/>
