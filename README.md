@@ -3,9 +3,7 @@
 [twitter]: https://twitter.com/shawalmbalire
 [portfolio]: https://shawalmbalire.com
 
-# Hi there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=0)
-
-## 📊 GitHub Stats:
+# Greetings there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=0)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&layout=compact&langs_count=10"/>
