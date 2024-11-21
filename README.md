@@ -7,18 +7,19 @@
 
 <a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">    
   <img 
-    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" 
+    height="250em"
     alt="GitRoll Profile Badge" 
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" 
   />
 </a>
 <p>
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&layout=compact&langs_count=10&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
   />
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&layout=compact&langs_count=10&hide_border=true"
   />
   <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=light&layout=compact&count_private=true&include_all_commits=true#gh-light-mode-only"/>
