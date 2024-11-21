@@ -11,7 +11,9 @@
 
 <!-- git roll -->
 ## Git roll
-<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" alt="GitRoll Profile Badge" height="180em"/>
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbalireshawal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shawalmbalire) 
