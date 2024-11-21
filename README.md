@@ -15,7 +15,7 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=s
 
 ## Git roll
 <a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" alt="GitRoll Profile Badge" height="240em"/>
+  <img src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" alt="GitRoll Profile Badge" height="360em"/>
 </a>
 
 ## 🌐 Socials:
