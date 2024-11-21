@@ -15,7 +15,7 @@
 <p>
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=light&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
   />
   <img 
     height="200em"
