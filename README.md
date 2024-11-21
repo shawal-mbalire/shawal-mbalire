@@ -9,8 +9,8 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=s
 
 ## 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=dark&show_icons=true&layout=compact&langs_count=10"/>
 </p>
 
 ## Git roll
