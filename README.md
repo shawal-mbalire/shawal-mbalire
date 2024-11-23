@@ -11,7 +11,10 @@
     alt="GitRoll Profile Badge" 
     src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" 
   />  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=dark&hide_border=false)<br/>
+  <img 
+    height="250em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=dark&hide_border=false"
+  />
 </a>
 <p>
   <img 
