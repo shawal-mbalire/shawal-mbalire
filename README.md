@@ -24,8 +24,7 @@
   <img 
     height="200em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=10&hide_border=true"
-  />
-   -->     
+  />  
 </p>
 
 ## 🌐 Socials:
