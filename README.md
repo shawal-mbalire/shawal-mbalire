@@ -3,13 +3,14 @@
 [twitter]: https://twitter.com/shawalmbalire
 [portfolio]: https://shawalmbalire.com
 
-# Greetings there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=12)
+Greetings there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-mbalire&icon=0&color=12)
 
 <a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">    
   <img 
     height="250em"
     alt="GitRoll Profile Badge" 
-    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=dark" 
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+    
   />  
 <!--   <img 
     height="250em"
