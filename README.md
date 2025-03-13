@@ -19,11 +19,11 @@ Greetings there 👋. I'm Shawal ![](https://visitcount.itsvg.in/api?id=shawal-m
 <p>
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyoNight&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
   />
   <img 
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyoNight&show_icons=true&layout=compact&langs_count=10&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=10&hide_border=true"
   />  
 </p>
 
