@@ -35,25 +35,23 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
 />
 
-<p>
-  <!-- gitroll.io -->
+<!-- gitroll.io -->
   <img 
     alt="GitRoll Profile" 
-    style="width:45%"
+    style="width:90%"
     src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
   />
+<p>
+  
   <!-- https://github.com/stats-organization/github-stats-extended -->
   <img 
-    alt="GitStats" style="width:50%"
+    alt="GitStats" style="width:45%"
     src="https://github-stats-extended.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=false"
   />
-</p>
-
-<p align="center">
   <!-- https://github.com/stats-organization/github-stats-extended -->
   <img 
-    alt="GitStats top langs" style="width:40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=15&hide_border=false"
+    alt="GitStats top langs" style="width:45%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=5&hide_border=false"
   />  
 </p>
 
