@@ -1,57 +1,53 @@
-<!-- Variables-->
+<!-- Markdown Variables-->
 
 [linkedin]: https://linkedin.com/in/mbalireshawal
 [twitter]: https://twitter.com/shawalmbalire
 [portfolio]: https://shawalmbalire.com
+[gitroll]:  https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2
 [username]: shawal-mbalire
 
 <!-- HTML -->
-<a 
-  href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" 
-  target="_blank"
->    
-
+<div align="center">
 
   <h1 align="center">Greetings, I'm Shawal</h1>
-  <div align="center">
-    <table style="width: 90%;">
-      <tr>
-        <td align="left"><b>Focus</b></td>
-        <td align="left">Data Engineering</td>
-      </tr>
-      <tr>
-        <td align="left"><b>Learning</b></td>
-        <td align="left">Cloud Architecture &amp; Electronics</td>
-      </tr>
-      <tr>
-        <td align="left"><b>Quote</b></td>
-        <td align="left"><i>"Today is a nice day for engineering"</i></td>
-      </tr>
-    </table>
-  </div>
 
-  <!-- widget box -->
-  <img 
-  alt="GitHub WidgetBox" style="width: 90%"
-  src="https://github-widgetbox.vercel.app/api/profile?username=shawal-mbalire&data=followers,repositories,stars,commits&theme=darkmode" 
-  />
+  <table style="width: 90%;">
+    <tr>
+      <td align="left"><b>Focus</b></td>
+      <td align="left">Data Engineering</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Learning</b></td>
+      <td align="left">Cloud Architecture &amp; Electronics</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Quote</b></td>
+      <td align="left"><i>"Today is a nice day for engineering"</i></td>
+    </tr>
+  </table>
+</div>
 
-  <!-- git roll -->
-  <img 
-    alt="GitRoll Profile" style="width:90%"
-    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
-  />
+<!-- widget box -->
+<img 
+alt="GitHub WidgetBox" style="width: 90%"
+src="https://github-widgetbox.vercel.app/api/profile?username=shawal-mbalire&data=followers,repositories,stars,commits&theme=darkmode" 
+/>
 
-  <!-- git stats -->
-  <img 
-    alt="Github Readme streak stats" style="width: 90%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
-  />
-  
-  <!-- gap -->
-  <br/><br/>
+<!-- git roll -->
+<img 
+  alt="GitRoll Profile" style="width:90%"
+  src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+/>
 
-</a>
+<!-- git stats -->
+<img 
+  alt="Github Readme streak stats" style="width: 90%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
+/>
+
+<!-- gap -->
+<br/><br/>
+
 
 <!-- <p>
   <img 
@@ -66,7 +62,8 @@
 
 # Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)][portfolio]
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logoColor=white)][portfolio]
+[![GitRoll](https://img.shields.io/badge/GitRoll-12100E?style=for-the-badge&logo=gitroll&logoColor=white)][gitroll]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/X--Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)][twitter]
 
@@ -79,12 +76,13 @@
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shawal-mbalire&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
