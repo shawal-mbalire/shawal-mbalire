@@ -1,28 +1,45 @@
+<!-- Variables-->
 
+[linkedin]: https://linkedin.com/in/mbalireshawal
+[twitter]: https://twitter.com/shawalmbalire
+[portfolio]: https://shawalmbalire.com
+[username]: shawal-mbalire
 
 <!-- HTML -->
-<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">    
+<a 
+  href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" 
+  target="_blank"
+>    
 
 
   <h1 align="center">Greetings, I'm Shawal</h1>
-
-  <p>
-
-    - I'm currently working on fullstack development
-    - I'm currently learning machine learning and electronics
-    - Quote: Today is a nice day for engineering
-  </p>
-
-  <!-- git roll -->
-  <img 
-    alt="GitRoll Profile" style="width:90%"
-    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
-  />
+  <div align="center">
+    <table style="width: 90%;">
+      <tr>
+        <td align="left"><b>Focus</b></td>
+        <td align="left">Data Engineering</td>
+      </tr>
+      <tr>
+        <td align="left"><b>Learning</b></td>
+        <td align="left">Cloud Architecture &amp; Electronics</td>
+      </tr>
+      <tr>
+        <td align="left"><b>Quote</b></td>
+        <td align="left"><i>"Today is a nice day for engineering"</i></td>
+      </tr>
+    </table>
+  </div>
 
   <!-- widget box -->
   <img 
   alt="GitHub WidgetBox" style="width: 90%"
   src="https://github-widgetbox.vercel.app/api/profile?username=shawal-mbalire&data=followers,repositories,stars,commits&theme=darkmode" 
+  />
+
+  <!-- git roll -->
+  <img 
+    alt="GitRoll Profile" style="width:90%"
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
   />
 
   <!-- git stats -->
@@ -48,11 +65,6 @@
 </p> -->
 
 # Socials:
-<!-- Variables-->
-
-[linkedin]: https://linkedin.com/in/mbalireshawal
-[twitter]: https://twitter.com/shawalmbalire
-[portfolio]: https://shawalmbalire.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)][portfolio]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
