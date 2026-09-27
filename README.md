@@ -29,28 +29,33 @@
 
 <!-- git stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-<img align="center"
-  alt="Github Readme streak stats"
-  style="width: 90%; " 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
-/>
+<div align="center">
+  <img 
+    alt="Github Readme streak stats"
+    style="width: 90%; " 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
+  />
+</div>
 
 <!-- gitroll.io -->
-<img align="center"
-  alt="GitRoll Profile" 
-  style="width:90%"
-  src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
-/>
+<div align="center">
+  <img
+    alt="GitRoll Profile" 
+    style="width:90%"
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+  />
+</div>
 
+<!-- Git Status -->
 <p align="center">
   <!-- https://github.com/stats-organization/github-stats-extended -->
   <img 
-  style="width: 45%; height: 100%" 
+    style="width: 45%; height: 100%" 
     src="https://github-stats-extended.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=false"
   />
   <!-- https://github.com/stats-organization/github-stats-extended -->
-    <img 
-  style="width: 45%; height: 100%" 
+  <img 
+    style="width: 45%; height: 100%" 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=5&hide_border=false"
   />  
 </p>
