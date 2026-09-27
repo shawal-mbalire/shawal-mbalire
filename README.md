@@ -15,13 +15,13 @@
 
   <!-- git roll -->
   <img 
-    alt="GitRoll Profile" style="width:40%"
+    alt="GitRoll Profile" style="width:90%"
     src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
   />
 
   <!-- widget box -->
   <img 
-  alt="GitHub WidgetBox" style="width: 40%"
+  alt="GitHub WidgetBox" style="width: 90%"
   src="https://github-widgetbox.vercel.app/api/profile?username=shawal-mbalire&data=followers,repositories,stars,commits&theme=darkmode" 
   />
 
