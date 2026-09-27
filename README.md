@@ -27,14 +27,6 @@
   </table>
 </div>
 
-<!-- git roll -->
-<!-- gitroll.io -->
-<img 
-  alt="GitRoll Profile" 
-  style="width:45%"
-  src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
-/>
-
 <!-- git stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <img 
@@ -43,16 +35,24 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
 />
 
-<!-- https://github.com/stats-organization/github-stats-extended -->
 <p>
-  <!-- alt="GitStats"  -->
+  <!-- gitroll.io -->
   <img 
-    style="width:55%"
+    alt="GitRoll Profile" 
+    style="width:45%"
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+  />
+  <!-- https://github.com/stats-organization/github-stats-extended -->
+  <img 
+    alt="GitStats" style="width:50%"
     src="https://github-stats-extended.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=false"
   />
-  <!-- alt="GitStats top langs"  -->
+</p>
+
+<p align="center">
+  <!-- https://github.com/stats-organization/github-stats-extended -->
   <img 
-    style="width:40%"
+    alt="GitStats top langs" style="width:40%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=15&hide_border=false"
   />  
 </p>
@@ -83,8 +83,3 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shawal-mbalire&theme=radical&no-frame=false&no-bg=true&margin-w=4)
