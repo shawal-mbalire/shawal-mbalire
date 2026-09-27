@@ -27,40 +27,33 @@
   </table>
 </div>
 
-<!-- widget box -->
-<!-- https://github.com/Jurredr/github-widgetbox -->
-<img 
-alt="GitHub WidgetBox" style="width: 90%"
-src="https://github-widgetbox.vercel.app/api/profile?username=shawal-mbalire&data=followers,repositories,stars,commits&theme=darkmode" 
-/>
-
 <!-- git roll -->
 <!-- gitroll.io -->
 <img 
-  alt="GitRoll Profile" style="width:90%"
+  alt="GitRoll Profile" 
+  style="width:45%"
   src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
 />
 
 <!-- git stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <img 
-  alt="Github Readme streak stats" style="width: 90%" 
+  alt="Github Readme streak stats"
+  style="width: 90%" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=shawal-mbalire&theme=tokyonight&hide_border=false" 
 />
 
-
-<!-- gap -->
-<br/><br/>
-
 <!-- https://github.com/stats-organization/github-stats-extended -->
 <p>
+  <!-- alt="GitStats"  -->
   <img 
-    alt="GitStats" style="width:40%"
-    src="https://github-stats-extended.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=true"
+    style="width:55%"
+    src="https://github-stats-extended.vercel.app/api?username=shawal-mbalire&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_border=false"
   />
+  <!-- alt="GitStats top langs"  -->
   <img 
-    alt="GitStats top langs" style="width:40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=10&hide_border=true"
+    style="width:40%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=shawal-mbalire&theme=tokyonight&show_icons=true&layout=compact&langs_count=15&hide_border=false"
   />  
 </p>
 
